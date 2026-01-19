@@ -10,7 +10,7 @@ This project analyzes species-wise observation trends from camera trap data to a
 - Prepare publication-quality figures
 
 ## Data
-- Source: Open-access camera trap dataset (processed in [Python Project 1](https://github.com/Ankanhalder2000/camera-trap-data-analysis))
+- Source: Open-access camera trap dataset (processed in [camera-trap-data-analysis](https://github.com/Ankanhalder2000/camera-trap-data-analysis))
 - Input file: `camera_trap_cleaned.csv`
 
 ## Methods
