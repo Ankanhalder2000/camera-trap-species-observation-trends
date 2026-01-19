@@ -7,10 +7,10 @@ This project analyzes species-wise observation trends from camera trap data to a
 - Visualize species observation trends
 - Assess sampling sufficiency using cumulative counts
 - Identify dominant vs low-detection species
-- Prepare publication-quality figures
 
 ## Data
-- Source: Open-access camera trap dataset (processed in [camera-trap-data-analysis](https://github.com/Ankanhalder2000/camera-trap-data-analysis))
+- Source: Open-access camera trap dataset Mendeley Data repository (processed in [camera-trap-data-analysis](https://github.com/Ankanhalder2000/camera-trap-data-analysis))
+The data is used strictly for academic and skill demonstration purposes 
 - Input file: `camera_trap_cleaned.csv`
 
 ## Methods
