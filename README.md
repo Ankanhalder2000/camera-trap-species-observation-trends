@@ -24,7 +24,7 @@ The data is used strictly for academic and skill demonstration purposes
 - Rare species reach early stabilization
 - Results indicate incomplete sampling for rarer taxa
 
-## 📌 **Download the final release of the Species Observation Trends from Camera Trap Data project:** [v1.0 – Species Observation Trends – Final](https://github.com/Ankanhalder2000/camera-trap-species-observation-trends/releases/tag/v1.0)
+##  **Download the final release of the Species Observation Trends from Camera Trap Data project:** [v1.0 – Species Observation Trends – Final](https://github.com/Ankanhalder2000/camera-trap-species-observation-trends/releases/tag/v1.0)
 
 ## Limitations
 - No temporal metadata available
